@@ -6,12 +6,13 @@ const WebpackBar = require("webpackbar");
 const copyWebpackPlugin = require("copy-webpack-plugin");
 module.exports = {
   mode: 'production',
-  entry: path.join(__dirname, "../src/index.tsx"),
+  entry: path.join(__dirname, "../index.js"),
   output: {
     path: path.resolve(__dirname, "../lib"),
     filename: "micro-zenmap-container.js",
-    library: "micro-zenmap-container",
-    libraryTarget: "umd",
+    library: "micro-zenmap-container",    //指定库的全局变量
+    libraryTarget: "umd",                 //支持的引入方式
+    libraryExport: 'default'
   },
   resolve: {
     extensions: [".tsx", ".ts", ".js", ".jsx"],

@@ -1,6 +1,6 @@
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
-import  OceanMap from '../../src/index';
+import  {OceanMap} from '../../index.js';
 import MapOptions from './mapOptions'
 import { Component } from 'react';
 
