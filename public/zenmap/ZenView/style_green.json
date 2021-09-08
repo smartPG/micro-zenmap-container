@@ -1,0 +1,473 @@
+[
+          {
+                    "featureType": "background",
+                    "visibility": "visible",
+                    "background-color": "#012d2f",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_region_green",
+                    "visibility": "visible",
+                    "fill-color": "#012d2f",
+                    "fill-outline-color": "#012d2f",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_region_water",
+                    "visibility": "visible",
+                    "fill-color": "#014548",
+                    "fill-outline-color": "#014548",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_building_id",
+                    "visibility": "visible",
+                    "fill-extrusion-color": "#028489",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_region_subway",
+                    "visibility": "visible",
+                    "fill-color": "#028489",
+                    "fill-outline-color": "#028489",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_poi_hotel",
+                    "visibility": "visible",
+                    "text-color": "#cabaf9",
+                    "elementType": "labels.text.fill",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_region_health",
+                    "visibility": "visible",
+                    "fill-color": "#024141",
+                    "fill-outline-color": "#024141",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_region_scenicSpot",
+                    "visibility": "visible",
+                    "fill-color": "#013232",
+                    "elementType": "geometry.fill"
+          },
+          {
+                    "featureType": "culture",
+                    "visibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_region_parkingLot",
+                    "visibility": "none",
+                    "fill-color": "#61013c",
+                    "fill-outline-color": "#61013c",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_region_business",
+                    "visibility": "visible",
+                    "fill-color": "#184e50",
+                    "elementType": "geometry.fill"
+          },
+          {
+                    "featureType": "city_normal_region_sports",
+                    "visibility": "visible",
+                    "fill-color": "#184e50",
+                    "fill-outline-color": "#184e50",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_region_public",
+                    "visibility": "visible",
+                    "fill-color": "#0c3536",
+                    "elementType": "geometry.fill"
+          },
+          {
+                    "featureType": "city_normal_line_highway",
+                    "visibility": "visible",
+                    "line-color": "#01544a",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_line_ringRoad",
+                    "visibility": "visible",
+                    "line-color": "#025f5b",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_line_ringRoad",
+                    "visibility": "visible",
+                    "line-color": "#02676d",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_line_nationalRoad",
+                    "visibility": "visible",
+                    "line-color": "#045450",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_line_provincialRoad",
+                    "visibility": "visible",
+                    "line-color": "#014946",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_line_secondaryRoad",
+                    "visibility": "visible",
+                    "line-color": "#025854",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_line_levelThreeRoad",
+                    "visibility": "visible",
+                    "line-color": "#014542",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_line_levelFourRoad",
+                    "visibility": "visible",
+                    "line-color": "#025a56",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_line_railway_stroke",
+                    "elementType": "geometry.stroke",
+                    "line-color": "#06d6b2",
+                    "visibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_line_railway_fill",
+                    "elementType": "geometry.fill",
+                    "line-color": "#025252",
+                    "visibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_line_highSpeedRailway_fill",
+                    "elementType": "geometry.fill",
+                    "line-color": "#0ad7ec",
+                    "visibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_line_highSpeedRailway_stroke",
+                    "elementType": "geometry.stroke",
+                    "line-color": "#02353a",
+                    "visibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_subway_kou",
+                    "visibility": "none",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_line_overPass",
+                    "visibility": "visible",
+                    "line-color": "#0aaa8f",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_line_underPass",
+                    "visibility": "visible",
+                    "line-color": "#029192",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_line_other",
+                    "visibility": "visible",
+                    "line-color": "#034e4f",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_line_roadsBeingBuilt_fill",
+                    "elementType": "geometry.fill",
+                    "line-color": "#04876a",
+                    "visibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_road_label_img_id",
+                    "visibility": "visible",
+                    "text-color": "#13697c",
+                    "elementType": "labels.text.fill"
+          },
+          {
+                    "featureType": "city_normal_road_label_id",
+                    "visibility": "visible",
+                    "text-color": "#0bacac",
+                    "elementType": "labels.text.fill"
+          },
+          {
+                    "featureType": "city_normal_poi_buidling",
+                    "visibility": "visible",
+                    "text-color": "#69cbf7",
+                    "elementType": "labels.text.fill",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_hotel",
+                    "visibility": "visible",
+                    "text-halo-color": "#023b3e",
+                    "elementType": "labels.text.stroke",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_canyin",
+                    "visibility": "none",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_jiaotongsheshi",
+                    "visibility": "visible",
+                    "text-color": "#58f5ef",
+                    "elementType": "labels.text.fill",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_jiaotongsheshi",
+                    "visibility": "visible",
+                    "text-halo-color": "#023b3e",
+                    "elementType": "labels.text.stroke",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_lvyou",
+                    "visibility": "visible",
+                    "text-halo-color": "#023b3e",
+                    "elementType": "labels.text.stroke",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_lvyou",
+                    "visibility": "visible",
+                    "text-color": "#01ceb4",
+                    "elementType": "labels.text.fill",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_region_edu",
+                    "visibility": "visible",
+                    "fill-color": "#02373a",
+                    "elementType": "geometry.fill"
+          },
+          {
+                    "featureType": "city_normal_poi_gov",
+                    "visibility": "visible",
+                    "text-color": "#ffac07",
+                    "text-halo-color": "#ffac07",
+                    "elementType": "all",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_gov",
+                    "visibility": "visible",
+                    "text-halo-color": "#01292b",
+                    "elementType": "labels.text.stroke",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_hospital",
+                    "visibility": "none",
+                    "text-color": "#fd80fd",
+                    "elementType": "labels.text.fill",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_vehicle",
+                    "visibility": "none",
+                    "text-color": "#ff00ff",
+                    "text-halo-color": "#ff00ff",
+                    "elementType": "all",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_address",
+                    "visibility": "visible",
+                    "text-color": "#64d4fd",
+                    "text-halo-color": "#64d4fd",
+                    "elementType": "all",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_address",
+                    "visibility": "visible",
+                    "text-halo-color": "#01292b",
+                    "elementType": "labels.text.stroke",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_edu",
+                    "visibility": "visible",
+                    "text-color": "#0ac7a6",
+                    "elementType": "labels.text.fill",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_district_district",
+                    "visibility": "visible",
+                    "text-color": "#07f9a5",
+                    "elementType": "labels.text.fill"
+          },
+          {
+                    "featureType": "city_normal_district_village",
+                    "visibility": "visible",
+                    "text-color": "#05889b",
+                    "elementType": "labels.text.fill"
+          },
+          {
+                    "featureType": "city_normal_district_village",
+                    "visibility": "visible",
+                    "text-halo-color": "#033138",
+                    "elementType": "labels.text.stroke"
+          },
+          {
+                    "featureType": "city_normal_district_town",
+                    "visibility": "visible",
+                    "text-color": "#07acc5",
+                    "text-halo-color": "#07acc5",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_district_town",
+                    "visibility": "visible",
+                    "text-halo-color": "#033138",
+                    "elementType": "labels.text.stroke"
+          },
+          {
+                    "featureType": "city_normal_district_aois",
+                    "visibility": "none",
+                    "text-color": "#cc0000",
+                    "elementType": "labels.text.fill"
+          },
+          {
+                    "featureType": "city_normal_poi_bank",
+                    "visibility": "none",
+                    "text-color": "#ea9999",
+                    "text-halo-color": "#ea9999",
+                    "elementType": "all",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_bank",
+                    "visibility": "visible",
+                    "text-halo-color": "#033138",
+                    "elementType": "labels.text.stroke",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_buidling",
+                    "visibility": "visible",
+                    "text-halo-color": "#02171a",
+                    "elementType": "labels.text.stroke",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_live",
+                    "visibility": "none",
+                    "text-color": "#ff00ff",
+                    "text-halo-color": "#ff00ff",
+                    "elementType": "all",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_subway",
+                    "visibility": "visible",
+                    "text-color": "#aef48f",
+                    "elementType": "labels.text.fill",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_subway",
+                    "visibility": "visible",
+                    "text-halo-color": "#02171a",
+                    "elementType": "labels.text.stroke",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_pass",
+                    "visibility": "none",
+                    "text-color": "#e69138",
+                    "text-halo-color": "#e69138",
+                    "elementType": "all",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_roadFacilities",
+                    "visibility": "none",
+                    "text-color": "#ff00ff",
+                    "elementType": "labels.text.fill",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_pe",
+                    "visibility": "none",
+                    "text-color": "#ff00ff",
+                    "elementType": "labels.text.fill",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_gouwu",
+                    "visibility": "none",
+                    "text-color": "#ff00ff",
+                    "text-halo-color": "#ff00ff",
+                    "elementType": "all",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_other",
+                    "visibility": "none",
+                    "text-color": "#ff00ff",
+                    "text-halo-color": "#ff00ff",
+                    "elementType": "all",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_edu",
+                    "visibility": "visible",
+                    "text-color": "#0ac7a6",
+                    "text-halo-color": "#0ac7a6",
+                    "elementType": "all",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_poi_edu",
+                    "visibility": "visible",
+                    "text-halo-color": "#01292b",
+                    "elementType": "labels.text.stroke",
+                    "iconVisibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_line_subway",
+                    "visibility": "visible",
+                    "line-color": "#37f28f",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_line_overPass",
+                    "visibility": "visible",
+                    "line-color": "#0296a5",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_line_roadsBeingBuilt_stroke",
+                    "elementType": "geometry.stroke",
+                    "line-color": "#02727d",
+                    "visibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_line_roadsBeingBuilt_fill",
+                    "elementType": "geometry.fill",
+                    "line-color": "#02727d",
+                    "visibility": "visible"
+          },
+          {
+                    "featureType": "city_normal_line_subwayBeingBuilt_fill",
+                    "visibility": "visible",
+                    "line-color": "#0aecc5",
+                    "elementType": "all"
+          },
+          {
+                    "featureType": "city_normal_region_traffic",
+                    "fill-color": "#023d3e",
+                    "fill-outline-color": "#023d3e",
+                    "elementType": "all"
+          }
+]

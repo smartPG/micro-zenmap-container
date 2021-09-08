@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="24px" viewBox="0 0 84 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Img/license/Yellow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Img/license/Yellow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Path" fill="#FEC831" x="0" y="0" width="84" height="24" rx="0.5"></rect>
+        <rect id="Path" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" x="2.5" y="2.5" width="79" height="19" rx="0.5"></rect>
+        <circle id="4" fill="#000000" cx="79" cy="19" r="1"></circle>
+        <circle id="3" fill="#000000" cx="5" cy="19" r="1"></circle>
+        <circle id="2" fill="#000000" cx="79" cy="5" r="1"></circle>
+        <circle id="1" fill="#000000" cx="5" cy="5" r="1"></circle>
+    </g>
+</svg>

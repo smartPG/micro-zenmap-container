@@ -1,0 +1,445 @@
+[
+    {
+        "featureType": "background",
+        "visibility": "visible",
+        "background-color": "#0b2c40",
+        "elementType": "all"
+    },
+    {
+        "featureType": "city_normal_region",
+        "visibility": "visible",
+        "fill-color": [
+            "match",
+            [
+                "get",
+                "labels"
+            ],
+            "regions:green",
+            "#143549",
+            "water",
+            "#081c29",
+            "regions:edu",
+            "#0e354d",
+            "regions:health",
+            "#0e354d",
+            "regions:scenicSpot",
+            "#0e354d",
+            "regions:public",
+            "#0e354d",
+            "regions:traffic",
+            "#0e354d",
+            "regions:sports",
+            "#0e354d",
+            "regions:business",
+            "#0e354d",
+            "regions:parkingLot",
+            "#0e354d",
+            [
+                "string",
+                [
+                    "get",
+                    "style"
+                ]
+            ]
+        ],
+        "fill-outline-color": [
+            "match",
+            [
+                "get",
+                "labels"
+            ],
+            "regions:green",
+            "#143549",
+            "water",
+            "#081c29",
+            "regions:edu",
+            "#0e354d",
+            "regions:health",
+            "#0e354d",
+            "regions:scenicSpot",
+            "#0e354d",
+            "regions:public",
+            "#0e354d",
+            "regions:traffic",
+            "#0e354d",
+            "regions:sports",
+            "#0e354d",
+            "regions:business",
+            "#0e354d",
+            "regions:parkingLot",
+            "#0e354d",
+            [
+                "string",
+                [
+                    "get",
+                    "style"
+                ]
+            ]
+        ],
+        "filter": [
+            "in",
+            "labels",
+            "regions:green",
+            "regions:business",
+            "regions:edu",
+            "regions:public",
+            "regions:health",
+            "regions:scenicSpot",
+            "regions:parkingLot",
+            "regions:sports",
+            "regions:traffic",
+            "water"
+        ],
+        "elementType": "all"
+    },
+    {
+        "featureType":"city_normal_region_subway",
+        "visibility": "visible",
+        "fill-color":"#4482a9"
+    },
+    {
+        "featureType":"city_normal_line_underPass",
+        "visibility": "none"
+    },
+    {
+        "featureType": "city_normal_line",
+        "visibility": "visible",
+        "line-color": [
+            "match",
+            [
+                "get",
+                "labels"
+            ],
+            "borders:foreign",
+            "#51b4f0",
+            "borders:China",
+            "#9ec9e3",
+            "borders:provincial",
+            "#7da6bf",
+            [
+                "string",
+                [
+                    "get",
+                    "fillStyle"
+                ]
+            ]
+        ],
+        "filter": [
+            "in",
+            "labels",
+            "borders:foreign",
+            "borders:China",
+            "borders:provincial"
+        ],
+        "elementType": "all"
+    },
+    {
+        "featureType": "city_normal_line_road",
+        "visibility": "visible",
+        "line-color": [
+            "match",
+            [
+                "get",
+                "labels"
+            ],
+            "roads:highWay",
+            "#105076",
+            "roads:ringRoad",
+            "#125881",
+            "roads:nationalRoad",
+            "#024970",
+            "roads:provincialRoad",
+            "#014063",
+            "roads:secondaryRoad",
+            "#01263c",
+            "roads:levelThreeRoad",
+            "#01263c",
+            "roads:levelFourRoad",
+            "#01263c",
+            "roads:subway",
+            "#066ba9",
+            [
+                "string",
+                [
+                    "get",
+                    "fillStyle"
+                ]
+            ]
+        ],
+        "filter": [
+            "in",
+            "labels",
+            "roads:levelFourRoad",
+            "roads:levelThreeRoad",
+            "roads:secondaryRoad",
+            "roads:provincialRoad",
+            "roads:nationalRoad",
+            "roads:ringRoad",
+            "roads:highWay",
+            "roads:subway"
+        ],
+        "elementType": "all"
+    },
+    {
+        "featureType": "city_normal_line_railway_stroke",
+        "elementType": "geometry.stroke",
+        "line-color": "#254a60",
+        "visibility": "visible"
+    },
+    {
+        "featureType": "city_normal_line_railway_fill",
+        "elementType": "geometry.fill",
+        "line-color": "#01263c",
+        "visibility": "visible"
+    },
+    {
+        "featureType": "city_normal_line_subwayBeingBuilt_fill",
+        "elementType": "geometry.fill",
+        "line-color": "#01263c",
+        "visibility": "visible"
+    },
+    {
+        "featureType": "city_normal_line_highSpeedRailway_fill",
+        "elementType": "geometry.fill",
+        "line-color": "#01263c",
+        "visibility": "visible"
+    },
+    {
+        "featureType": "city_normal_line_highSpeedRailway_stroke",
+        "elementType": "geometry.stroke",
+        "line-color": "#095f92",
+        "visibility": "visible"
+    },
+    {
+        "featureType": "city_normal_line_overPass",
+        "visibility": "visible",
+        "line-color": "#0b546e",
+        "elementType": "all"
+    },
+    {
+        "featureType": "city_normal_line_roadsBeingBuilt_fill",
+        "visibility": "none"
+    },
+    {
+        "featureType": "city_normal_line_roadsBeingBuilt_stroke",
+        "visibility": "none"
+    },
+    {
+        "featureType": "city_normal_poi",
+        "visibility": "none",
+        "text-color": [
+            "match",
+            [
+                "get",
+                "code"
+            ],
+            "0",
+            "#a5cde4",
+            "3",
+            "#a5cde4",
+            "4",
+            "#a5cde4",
+            "6",
+            "#a5cde4",
+            "7",
+            "#a5cde4",
+            "8",
+            "#a5cde4",
+            "9",
+            "#a5cde4",
+            "10",
+            "#a5cde4",
+            "11",
+            "#a5cde4",
+            "12",
+            "#a5cde4",
+            "15",
+            "#a5cde4",
+            "16",
+            "#a5cde4",
+            "18",
+            "#a5cde4",
+            "19",
+            "#a5cde4",
+            [
+                "string",
+                [
+                    "get",
+                    "text_color"
+                ]
+            ]
+        ],
+        "text-halo-color": [
+            "match",
+            [
+                "get",
+                "code"
+            ],
+            "0",
+            "#000000",
+            "3",
+            "#000000",
+            "4",
+            "#000000",
+            "6",
+            "#000000",
+            "7",
+            "#000000",
+            "8",
+            "#000000",
+            "9",
+            "#000000",
+            "10",
+            "#000000",
+            "11",
+            "#000000",
+            "12",
+            "#000000",
+            "15",
+            "#000000",
+            "16",
+            "#000000",
+            "18",
+            "#000000",
+            "19",
+            "#000000",
+            [
+                "string",
+                [
+                    "get",
+                    "text_halo_color"
+                ]
+            ]
+        ],
+        "filter": [
+            "all",
+            [
+                "in",
+                "code",
+                "0",
+                "3",
+                "4",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "15",
+                "16",
+                "18",
+                "19"
+            ],
+            [
+                "!=",
+                "icon-image",
+                "24_360"
+            ],
+            [
+                "!=",
+                "icon-image",
+                "72_360"
+            ]
+        ],
+        "elementType": "all"
+    },
+    {
+        "featureType": "city_normal_subway_kou",
+        "visibility": "none",
+        "text-color": "#073763",
+        "text-halo-color": "#073763",
+        "elementType": "all"
+    },
+    {
+        "featureType": "city_normal_district",
+        "visibility": "visible",
+        "text-color": [
+            "match",
+            [
+              "get",
+              "labels"
+            ],
+            "labels:city",
+            "#ffffff",
+            "labels:district",
+            "#aad9f4",
+            "labels:town",
+            "#aad9f4",
+            "labels:village",
+            "#9fcfea",
+            "labels:aois",
+            "#9fcfea",
+            "water",
+            "#5893b6",
+            [
+              "string",
+              [
+                "get",
+                "text_color"
+              ]
+            ]
+          ],
+        "text-halo-color": [
+            "match",
+            [
+              "get",
+              "labels"
+            ],
+            "labels:city",
+            "#000000",
+            "labels:district",
+            "#000000",
+            "labels:town",
+            "#000000",
+            "labels:village",
+            "#000000",
+            "labels:aois",
+            "#000000",
+            "water",
+            "#000000",
+            [
+              "string",
+              [
+                "get",
+                "text_halo_color"
+              ]
+            ]
+          ],
+          "filter": [
+            "in",
+            "labels",
+            "water",
+            "labels:city",
+            "labels:district",
+            "labels:town",
+            "labels:village",
+            "labels:aois"
+          ],
+        "elementType": "all"
+    },
+    {
+        "featureType":"city_normal_building_id",
+        "visibility": "visible",
+        "fill-extrusion-color": {
+            "property": "fill-extrusion-height",
+            "stops":[
+                [0,"#1a5e87"],
+                [30,"#5015a7"],
+                [60,"#6e33c5"],
+                [100,"#a887d8"],
+                [150,"#d9c9f1"]
+            ]
+        },
+        "fill-extrusion-basecolor": {
+            "property": "fill-extrusion-height",
+            "stops":[
+                [0,"#074575"],
+                [30,"#074575"],
+                [60,"#074575"],
+                [100,"#074575"],
+                [150,"#074575"]
+            ]
+        }
+    }
+]

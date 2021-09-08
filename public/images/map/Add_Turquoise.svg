@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="32px" viewBox="0 0 24 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>BG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#2BDADD" offset="0%"></stop>
+            <stop stop-color="#14BDC0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,0 C18.627417,0 24,5.372583 24,12 L24.0000254,12 C24.0000254,18.5 20,21 17,25 C15.2927139,27.2763814 16,32 12.0001108,32 C8.00022159,32 8.70728634,27.2763818 7,25 C4.05150081,21.0686677 0.13704078,18.5862767 0.00351114827,12.3312466 C0.00149843232,12.2210111 0,12.1106805 0,12 C0,5.372583 5.372583,0 12,0 Z" id="BG" fill="url(#linearGradient-1)"></path>
+    </g>
+</svg>

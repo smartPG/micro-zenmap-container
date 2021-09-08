@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="32px" viewBox="0 0 24 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>BG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#A3ACBF" offset="0%"></stop>
+            <stop stop-color="#8D96A9" stop-opacity="0.95" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="8_数据看板" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-948.000000, -524.000000)" fill="url(#linearGradient-1)">
+            <path d="M948,536 C948,529.372583 953.372583,524 960,524 C966.627417,524 972,529.372583 972,536 C972.000025,542.5 968,545 965,549 C963.292714,551.276381 964,556 960.000111,556 C956.000222,556 956.707286,551.276382 955,549 C952,545 948,542.5 948,536 Z" id="BG"></path>
+        </g>
+    </g>
+</svg>

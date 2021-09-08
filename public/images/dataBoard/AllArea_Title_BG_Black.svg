@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <svg width="528px" height="92px" viewBox="0 0 528 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> -->
+<svg width="694px" height="120px" viewBox="0 0 528 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>AllArea_Title_BG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,0 L496,0 L455.716817,27.9744323 C450.692579,31.4634867 444.721844,33.3333333 438.604943,33.3333333 L420,33.3333333 C412.078439,33.3333333 404.235287,34.9019637 396.923077,37.9487179 L379.076923,45.3846154 C371.764713,48.4313696 363.921561,50 356,50 L310.426407,50 C302.469912,50 294.839295,53.1607052 289.213203,58.7867966 L283.857864,64.1421356 C280.107137,67.8928632 275.020059,70 269.715729,70 L226.284271,70 C220.979941,70 215.892863,67.8928632 212.142136,64.1421356 L206.786797,58.7867966 C201.160705,53.1607052 193.530088,50 185.573593,50 L140,50 C132.078439,50 124.235287,48.4313696 116.923077,45.3846154 L99.0769231,37.9487179 C91.7647128,34.9019637 83.9215611,33.3333333 76,33.3333333 L57.3950568,33.3333333 C51.2781564,33.3333333 45.3074208,31.4634867 40.2831825,27.9744323 L0,0 Z" id="path-1"></path>
+        <filter x="-6.3%" y="-41.4%" width="112.5%" height="188.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="10_社区管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1_社区总览_BlackFace" transform="translate(-696.000000, 0.000000)">
+            <g id="Title" transform="translate(712.000000, 0.000000)">
+                <g id="AllArea_Title_BG">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#1E2742" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
