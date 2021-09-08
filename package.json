@@ -1,5 +1,5 @@
 {
-  "name": "oceanmapcontainer",
+  "name": "micro-zenmap-container",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,12 +10,20 @@
     "doc": "jsdoc app -r -d docs",
     "deploy": "npm run build && gh-pages -d dist"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartPG/micro-zenmap-container.git"
+  },
   "directories": {
     "lib": "lib"
   },
-  "keywords": [],
+  "keywords": ["micro-zenmap-container"],
   "author": "wangcong",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smartPG/micro-zenmap-container/issues"
+  },
+  "homepage": "https://github.com/smartPG/micro-zenmap-container#readme",
   "devDependencies": {
     "@types/leaflet": "^1.7.4",
     "copy-webpack-plugin": "^9.0.1",

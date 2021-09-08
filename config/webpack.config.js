@@ -9,8 +9,8 @@ module.exports = {
   entry: path.join(__dirname, "../src/index.tsx"),
   output: {
     path: path.resolve(__dirname, "../lib"),
-    filename: "oceanmapcontainer.js",
-    library: "oceanmapcontainer",
+    filename: "micro-zenmap-container.js",
+    library: "micro-zenmap-container",
     libraryTarget: "umd",
   },
   resolve: {
